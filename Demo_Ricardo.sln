@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Ricardo.Plugins", "Demo_Ricardo.Plugins.csproj", "{30FB382C-903B-2846-0D61-9A5A98BB38A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Ricardo", "Demo_Ricardo.csproj", "{12D06389-098F-EC07-8D23-4933168956FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Ricardo.Editor.Plugins", "Demo_Ricardo.Editor.Plugins.csproj", "{059FD5BD-345F-DC0A-BF16-41DC3AAE4A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FB382C-903B-2846-0D61-9A5A98BB38A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FB382C-903B-2846-0D61-9A5A98BB38A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FB382C-903B-2846-0D61-9A5A98BB38A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FB382C-903B-2846-0D61-9A5A98BB38A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D06389-098F-EC07-8D23-4933168956FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D06389-098F-EC07-8D23-4933168956FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D06389-098F-EC07-8D23-4933168956FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D06389-098F-EC07-8D23-4933168956FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059FD5BD-345F-DC0A-BF16-41DC3AAE4A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059FD5BD-345F-DC0A-BF16-41DC3AAE4A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059FD5BD-345F-DC0A-BF16-41DC3AAE4A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059FD5BD-345F-DC0A-BF16-41DC3AAE4A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
